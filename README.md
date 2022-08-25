@@ -1,2 +1,2 @@
 # CPP
-<h1> This code is print my name for infinite times
+<h1> This code will print the catchphrase of Indian school students and print my name infinite times
